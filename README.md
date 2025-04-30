@@ -1,4 +1,4 @@
-##Instructions:
+## Instructions:
 
 1. Replace 'REGION HERE', 'ACCESS KEY ID HERE', and 'SECRET ACCESS KEY HERE' with the appropriate crecidientals. You need to keep the apostrophes- for example, 'us-east-1'.
 
