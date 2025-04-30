@@ -4,7 +4,7 @@
 
 2. Run index.js with 'node index.js' in the terminal. The webpage will be opened at http://localhost:1234/.
 
-## Examples:
+## Pictures:
 
 ![image](https://github.com/user-attachments/assets/a11a9482-a5c4-40b1-81e7-5cabdd272219)
 
